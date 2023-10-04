@@ -6,6 +6,7 @@ export default defineConfig({
   description: "Documentation for MadroneJS",
   lastUpdated: true,
   srcDir: './src',
+  outDir: './dist',
   base: '/madronejs/docs/',
   themeConfig: {
     search: {
