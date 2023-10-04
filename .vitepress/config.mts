@@ -7,7 +7,7 @@ export default defineConfig({
   lastUpdated: true,
   srcDir: './src',
   outDir: './dist',
-  base: '/madronejs/docs/',
+  base: '/docs/',
   themeConfig: {
     search: {
       provider: 'local',
